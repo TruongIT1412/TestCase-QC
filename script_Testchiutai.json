@@ -1,0 +1,2871 @@
+{
+ "version": "1.0",
+ "collections": [
+  {
+   "name": "Collection - 20230628122456",
+   "description": "",
+   "items": [
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "log",
+         "value": "admin"
+        },
+        {
+         "key": "pwd",
+         "value": "sq1eCY^2)dHVZ!%3HYg%RjoD"
+        },
+        {
+         "key": "redirect_to",
+         "value": "https://online2.mmvietnam.com/wp-admin/"
+        },
+        {
+         "key": "testcookie",
+         "value": "1"
+        },
+        {
+         "key": "wp-submit",
+         "value": "Đăng nhập"
+        }
+       ]
+      },
+      "requestId": "664",
+      "tabId": 1686153274,
+      "timeStamp": 1687955207698.55,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/admin/",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "831",
+      "tabId": 1686153274,
+      "timeStamp": 1687955230246.773,
+      "type": "xmlhttprequest",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Accept",
+        "value": "*/*"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200",
+      "ip": "142.250.66.42",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "csp_test",
+        "value": "true"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "958",
+      "tabId": 1686153274,
+      "timeStamp": 1687955231307.1238,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/options?options=woocommerce_ces_tracks_queue&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "options",
+        "value": "woocommerce_ces_tracks_queue"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "832",
+      "tabId": 1686153274,
+      "timeStamp": 1687955230291.296,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wp/v2/",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[wp-check-locked-posts][]",
+         "value": "post-778888,post-778887,post-778886,post-778885,post-778884,post-778883,post-778882,post-778881,post-778880,post-778879,post-778877,post-778876,post-778875,post-778874,post-778873,post-778872,post-778871,post-778870,post-778869,post-778868"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "edit-shop_order"
+        }
+       ]
+      },
+      "requestId": "964",
+      "tabId": 1686153274,
+      "timeStamp": 1687955231552.447,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "965",
+      "tabId": 1686153274,
+      "timeStamp": 1687955231633.3,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-analytics/admin/notes?page=1&per_page=25&type=error%2Cupdate&status=unactioned&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "page",
+        "value": "1"
+       },
+       {
+        "key": "per_page",
+        "value": "25"
+       },
+       {
+        "key": "type",
+        "value": "error,update"
+       },
+       {
+        "key": "status",
+        "value": "unactioned"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "959",
+      "tabId": 1686153274,
+      "timeStamp": 1687955231321.5598,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/onboarding/tasks?_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "E433F675A774231C828544D9308C687B",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[wp-check-locked-posts][]",
+         "value": "post-778888,post-778887,post-778886,post-778885,post-778884,post-778883,post-778882,post-778881,post-778880,post-778879,post-778877,post-778876,post-778875,post-778874,post-778873,post-778872,post-778871,post-778870,post-778869,post-778868"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "edit-shop_order"
+        }
+       ]
+      },
+      "requestId": "999",
+      "tabId": 1686153274,
+      "timeStamp": 1687955246554.863,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "CCB7B3EFD0231E134752D9AD634A7389",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1075",
+      "tabId": 1686153274,
+      "timeStamp": 1687955257671.732,
+      "type": "xmlhttprequest",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Accept",
+        "value": "*/*"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200",
+      "ip": "142.250.66.42",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "csp_test",
+        "value": "true"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "998",
+      "tabId": 1686153274,
+      "timeStamp": 1687955243091.208,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php?action=woocommerce_mark_order_status&status=pending&order_id=778885&_wpnonce=b0523c9e86",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "action",
+        "value": "woocommerce_mark_order_status"
+       },
+       {
+        "key": "status",
+        "value": "pending"
+       },
+       {
+        "key": "order_id",
+        "value": "778885"
+       },
+       {
+        "key": "_wpnonce",
+        "value": "b0523c9e86"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "CCB7B3EFD0231E134752D9AD634A7389",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[wp-check-locked-posts][]",
+         "value": "post-778888,post-778887,post-778886,post-778885,post-778884,post-778883,post-778882,post-778881,post-778880,post-778879,post-778877,post-778876,post-778875,post-778874,post-778873,post-778872,post-778871,post-778870,post-778869,post-778868"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "edit-shop_order"
+        }
+       ]
+      },
+      "requestId": "1163",
+      "tabId": 1686153274,
+      "timeStamp": 1687955259807.3372,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "CCB7B3EFD0231E134752D9AD634A7389",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1144",
+      "tabId": 1686153274,
+      "timeStamp": 1687955259437.246,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/options?options=woocommerce_ces_tracks_queue&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "options",
+        "value": "woocommerce_ces_tracks_queue"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "CCB7B3EFD0231E134752D9AD634A7389",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1148",
+      "tabId": 1686153274,
+      "timeStamp": 1687955259507.2998,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-analytics/admin/notes?page=1&per_page=25&type=error%2Cupdate&status=unactioned&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "page",
+        "value": "1"
+       },
+       {
+        "key": "per_page",
+        "value": "25"
+       },
+       {
+        "key": "type",
+        "value": "error,update"
+       },
+       {
+        "key": "status",
+        "value": "unactioned"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "CCB7B3EFD0231E134752D9AD634A7389",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1146",
+      "tabId": 1686153274,
+      "timeStamp": 1687955259442.118,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/onboarding/tasks?_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1192",
+      "tabId": 1686153274,
+      "timeStamp": 1687955262254.662,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php?action=woocommerce_mark_order_status&status=processing&order_id=778885&_wpnonce=b0523c9e86",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "action",
+        "value": "woocommerce_mark_order_status"
+       },
+       {
+        "key": "status",
+        "value": "processing"
+       },
+       {
+        "key": "order_id",
+        "value": "778885"
+       },
+       {
+        "key": "_wpnonce",
+        "value": "b0523c9e86"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "8B0ACE48FB8878C40908FFF6D4601201",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1274",
+      "tabId": 1686153274,
+      "timeStamp": 1687955274099.655,
+      "type": "xmlhttprequest",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Accept",
+        "value": "*/*"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200",
+      "ip": "142.250.66.42",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "csp_test",
+        "value": "true"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "8B0ACE48FB8878C40908FFF6D4601201",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[wp-check-locked-posts][]",
+         "value": "post-778888,post-778887,post-778886,post-778885,post-778884,post-778883,post-778882,post-778881,post-778880,post-778879,post-778877,post-778876,post-778875,post-778874,post-778873,post-778872,post-778871,post-778870,post-778869,post-778868"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "edit-shop_order"
+        }
+       ]
+      },
+      "requestId": "1286",
+      "tabId": 1686153274,
+      "timeStamp": 1687955274658.04,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "8B0ACE48FB8878C40908FFF6D4601201",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1282",
+      "tabId": 1686153274,
+      "timeStamp": 1687955274449.9978,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/options?options=woocommerce_ces_tracks_queue&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "options",
+        "value": "woocommerce_ces_tracks_queue"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "8B0ACE48FB8878C40908FFF6D4601201",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1287",
+      "tabId": 1686153274,
+      "timeStamp": 1687955274719.367,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-analytics/admin/notes?page=1&per_page=25&type=error%2Cupdate&status=unactioned&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "page",
+        "value": "1"
+       },
+       {
+        "key": "per_page",
+        "value": "25"
+       },
+       {
+        "key": "type",
+        "value": "error,update"
+       },
+       {
+        "key": "status",
+        "value": "unactioned"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "8B0ACE48FB8878C40908FFF6D4601201",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1283",
+      "tabId": 1686153274,
+      "timeStamp": 1687955274473.7861,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/onboarding/tasks?_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1320",
+      "tabId": 1686153277,
+      "timeStamp": 1687955284230.559,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php?action=generate_wpo_wcpdf&document_type=invoice&order_ids=778888&_wpnonce=bacce233b7",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "action",
+        "value": "generate_wpo_wcpdf"
+       },
+       {
+        "key": "document_type",
+        "value": "invoice"
+       },
+       {
+        "key": "order_ids",
+        "value": "778888"
+       },
+       {
+        "key": "_wpnonce",
+        "value": "bacce233b7"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "8B0ACE48FB8878C40908FFF6D4601201",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[wp-check-locked-posts][]",
+         "value": "post-778888,post-778887,post-778886,post-778885,post-778884,post-778883,post-778882,post-778881,post-778880,post-778879,post-778877,post-778876,post-778875,post-778874,post-778873,post-778872,post-778871,post-778870,post-778869,post-778868"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "edit-shop_order"
+        }
+       ]
+      },
+      "requestId": "1339",
+      "tabId": 1686153274,
+      "timeStamp": 1687955289664.286,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1340",
+      "tabId": 1686153274,
+      "timeStamp": 1687955291024.632,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/wp-admin/post.php?post=778885&action=edit",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "post",
+        "value": "778885"
+       },
+       {
+        "key": "action",
+        "value": "edit"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1421",
+      "tabId": 1686153274,
+      "timeStamp": 1687955295276.1892,
+      "type": "xmlhttprequest",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Accept",
+        "value": "*/*"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200",
+      "ip": "142.250.66.42",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "csp_test",
+        "value": "true"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1448",
+      "tabId": 1686153274,
+      "timeStamp": 1687955295681.969,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/options?options=woocommerce_ces_tracks_queue&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "options",
+        "value": "woocommerce_ces_tracks_queue"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[icl_post_language]",
+         "value": "vi"
+        },
+        {
+         "key": "data[icl_trid]",
+         "value": "65477807"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][lock]",
+         "value": "1687955294:1"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][post_id]",
+         "value": "778885"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "shop_order"
+        }
+       ]
+      },
+      "requestId": "1452",
+      "tabId": 1686153274,
+      "timeStamp": 1687955296016.012,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1449",
+      "tabId": 1686153274,
+      "timeStamp": 1687955295700.2139,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/onboarding/tasks?_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1453",
+      "tabId": 1686153274,
+      "timeStamp": 1687955296054.415,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-analytics/admin/notes?page=1&per_page=25&type=error%2Cupdate&status=unactioned&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "page",
+        "value": "1"
+       },
+       {
+        "key": "per_page",
+        "value": "25"
+       },
+       {
+        "key": "type",
+        "value": "error,update"
+       },
+       {
+        "key": "status",
+        "value": "unactioned"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[icl_post_language]",
+         "value": "vi"
+        },
+        {
+         "key": "data[icl_trid]",
+         "value": "65477807"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][lock]",
+         "value": "1687955298:1"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][post_id]",
+         "value": "778885"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "shop_order"
+        }
+       ]
+      },
+      "requestId": "1487",
+      "tabId": 1686153274,
+      "timeStamp": 1687955311036.959,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[icl_post_language]",
+         "value": "vi"
+        },
+        {
+         "key": "data[icl_trid]",
+         "value": "65477807"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][lock]",
+         "value": "1687955313:1"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][post_id]",
+         "value": "778885"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "shop_order"
+        }
+       ]
+      },
+      "requestId": "1489",
+      "tabId": 1686153274,
+      "timeStamp": 1687955326039.703,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "D30F3C050B3F488307850552EF55FCE2",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[icl_post_language]",
+         "value": "vi"
+        },
+        {
+         "key": "data[icl_trid]",
+         "value": "65477807"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][lock]",
+         "value": "1687955328:1"
+        },
+        {
+         "key": "data[wp-refresh-post-lock][post_id]",
+         "value": "778885"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "shop_order"
+        }
+       ]
+      },
+      "requestId": "1491",
+      "tabId": 1686153274,
+      "timeStamp": 1687955341040.625,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1485",
+      "tabId": 1686153274,
+      "timeStamp": 1687955306614.746,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/wp-admin/edit.php?post_type=product",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "post_type",
+        "value": "product"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "15C0A6AA1369157B836F45FCFCD42E74",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1598",
+      "tabId": 1686153274,
+      "timeStamp": 1687955348160.604,
+      "type": "xmlhttprequest",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Accept",
+        "value": "*/*"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200",
+      "ip": "142.250.204.74",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "csp_test",
+        "value": "true"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "15C0A6AA1369157B836F45FCFCD42E74",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1618",
+      "tabId": 1686153274,
+      "timeStamp": 1687955348969.996,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/options?options=woocommerce_ces_tracks_queue&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "options",
+        "value": "woocommerce_ces_tracks_queue"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "15C0A6AA1369157B836F45FCFCD42E74",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1619",
+      "tabId": 1686153274,
+      "timeStamp": 1687955348986.4868,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/onboarding/tasks?_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "15C0A6AA1369157B836F45FCFCD42E74",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "_nonce",
+         "value": "113c212eb2"
+        },
+        {
+         "key": "action",
+         "value": "heartbeat"
+        },
+        {
+         "key": "data[wp-check-locked-posts][]",
+         "value": "post-510393,post-183169,post-229572,post-112555,post-71236,post-71223,post-71234,post-71235,post-71734,post-71742,post-71744,post-71968,post-71975,post-71971,post-71977,post-71976,post-71983,post-71979,post-71984,post-78919,post-80553,post-80556,post-87681,post-88849,post-92715,post-95748,post-95752,post-95753,post-95754,post-95760,post-124868,post-125432,post-125430,post-126083,post-126088,post-126089,post-126093,post-126094,post-126097,post-128336,post-145468,post-145471,post-145467,post-145475,post-145476,post-145477,post-148102,post-148103,post-148107,post-148105,post-148109,post-148110,post-148112,post-148116,post-148114,post-148115,post-148119,post-148117,post-148118,post-169276,post-169274,post-169275,post-169279,post-169277,post-169281,post-169282,post-169283,post-169284,post-169286,post-190899,post-201623,post-201621,post-201780,post-201786,post-201783,post-201803,post-201804,post-201802,post-201805,post-201807,post-202535,post-202536,post-202544,post-202540,post-202545,post-209309,post-209321,post-229570,post-510480,post-26764,post-32952,post-34529,post-36134,post-41059,post-44150,post-45262,post-70404,post-70414,post-71225,post-71228,post-71227,post-71230,post-71229,post-71238,post-78929,post-778122,post-778095,post-778070,post-778027,post-778048,post-778123,post-778071,post-778028,post-778049,post-778118,post-778069,post-778124,post-778072,post-778029,post-778050,post-778073,post-778030,post-778051,post-778102,post-778108,post-778096,post-778074,post-778031,post-778052,post-778125,post-778075,post-778032,post-778053,post-778076,post-778033,post-778054,post-778119,post-778132,post-778077,post-778034,post-778055,post-778143,post-778126,post-778078,post-778035,post-778056,post-778127,post-778103,post-778109,post-778097"
+        },
+        {
+         "key": "has_focus",
+         "value": "true"
+        },
+        {
+         "key": "interval",
+         "value": "15"
+        },
+        {
+         "key": "screen_id",
+         "value": "edit-product"
+        }
+       ]
+      },
+      "requestId": "1622",
+      "tabId": 1686153274,
+      "timeStamp": 1687955349604.978,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "15C0A6AA1369157B836F45FCFCD42E74",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1624",
+      "tabId": 1686153274,
+      "timeStamp": 1687955349707.993,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-analytics/admin/notes?page=1&per_page=25&type=error%2Cupdate&status=unactioned&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "page",
+        "value": "1"
+       },
+       {
+        "key": "per_page",
+        "value": "25"
+       },
+       {
+        "key": "type",
+        "value": "error,update"
+       },
+       {
+        "key": "status",
+        "value": "unactioned"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1653",
+      "tabId": 1686153274,
+      "timeStamp": 1687955351972.094,
+      "type": "main_frame",
+      "url": "https://online2.mmvietnam.com/wp-admin/post.php?post=510393&action=edit",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Upgrade-Insecure-Requests",
+        "value": "1"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "Accept",
+        "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "post",
+        "value": "510393"
+       },
+       {
+        "key": "action",
+        "value": "edit"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "7A0B450AB770E66229DF3E0B91EF5A51",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1681",
+      "tabId": 1686153274,
+      "timeStamp": 1687955355219.6072,
+      "type": "xmlhttprequest",
+      "url": "https://maps.googleapis.com/maps/api/mapsjs/gen_204?csp_test=true",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       },
+       {
+        "key": "Accept",
+        "value": "*/*"
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200",
+      "ip": "142.250.204.74",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "csp_test",
+        "value": "true"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "7A0B450AB770E66229DF3E0B91EF5A51",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1702",
+      "tabId": 1686153274,
+      "timeStamp": 1687955355747.8398,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/onboarding/tasks?_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "7A0B450AB770E66229DF3E0B91EF5A51",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1701",
+      "tabId": 1686153274,
+      "timeStamp": 1687955355717.522,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-admin/options?options=woocommerce_ces_tracks_queue&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "options",
+        "value": "woocommerce_ces_tracks_queue"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "7A0B450AB770E66229DF3E0B91EF5A51",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "POST",
+      "parentFrameId": -1,
+      "requestBody": {
+       "type": "URLENCODED",
+       "data": [
+        {
+         "key": "action",
+         "value": "wpml_get_default_lang"
+        }
+       ]
+      },
+      "requestId": "1706",
+      "tabId": 1686153274,
+      "timeStamp": 1687955356543.232,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-admin/admin-ajax.php",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, text/javascript, */*; q=0.01"
+       },
+       {
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded; charset=UTF-8"
+       },
+       {
+        "key": "X-Requested-With",
+        "value": "XMLHttpRequest"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "queryParameters": []
+     }
+    },
+    {
+     "type": "REQUEST",
+     "data": {
+      "documentId": "7A0B450AB770E66229DF3E0B91EF5A51",
+      "documentLifecycle": "active",
+      "frameId": 0,
+      "frameType": "outermost_frame",
+      "initiator": "https://online2.mmvietnam.com",
+      "method": "GET",
+      "parentFrameId": -1,
+      "requestId": "1709",
+      "tabId": 1686153274,
+      "timeStamp": 1687955356880.2969,
+      "type": "xmlhttprequest",
+      "url": "https://online2.mmvietnam.com/wp-json/wc-analytics/admin/notes?page=1&per_page=25&type=error%2Cupdate&status=unactioned&_locale=user",
+      "requestHeaders": [
+       {
+        "key": "sec-ch-ua",
+        "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+       },
+       {
+        "key": "Accept",
+        "value": "application/json, */*;q=0.1"
+       },
+       {
+        "key": "sec-ch-ua-mobile",
+        "value": "?0"
+       },
+       {
+        "key": "X-WP-Nonce",
+        "value": "a8b9d2c01f"
+       },
+       {
+        "key": "User-Agent",
+        "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+       },
+       {
+        "key": "sec-ch-ua-platform",
+        "value": "\"Windows\""
+       }
+      ],
+      "statusCode": 200,
+      "statusLine": "HTTP/1.1 200 OK",
+      "ip": "103.191.147.165",
+      "fromCache": false,
+      "requestBody": {
+       "type": "EMPTY"
+      },
+      "queryParameters": [
+       {
+        "key": "page",
+        "value": "1"
+       },
+       {
+        "key": "per_page",
+        "value": "25"
+       },
+       {
+        "key": "type",
+        "value": "error,update"
+       },
+       {
+        "key": "status",
+        "value": "unactioned"
+       },
+       {
+        "key": "_locale",
+        "value": "user"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
